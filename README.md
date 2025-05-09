@@ -20,7 +20,7 @@ Inspired by modern, elegant UI palettes.
 
 ## 🚀 Live Website
 
-Visit the live version: [https://yourusername.github.io/wazeepodcast-site](https://yourusername.github.io/wazeepodcast-site)
+Visit the live version: [https://yourusername.github.io/wazeepodcast-site](https://cheerful-pothos-4c8af2.netlify.app/)
 
 > (Update this link with your real GitHub Pages or Netlify URL)
 
